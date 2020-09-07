@@ -1,0 +1,14 @@
+{
+  "name": "jsdom-node-iterator",
+  "version": "1.0.0",
+  "description": "A minimal example for the NodeIterator jsdom bug",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Daniel Dietrich <cafebab3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.4.0"
+  }
+}
